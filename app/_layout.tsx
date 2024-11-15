@@ -7,7 +7,7 @@ export default function RootLayout(){
             <Stack.Screen name="details/[id]" options={{
                 headerTitle:'Detail',
                 headerTransparent: true,
-                headerTintColor: '#fff',
+                headerTintColor: '#fff', 
             }}
             />
         </Stack>
